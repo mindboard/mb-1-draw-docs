@@ -1,0 +1,15 @@
+= MindBoard (Draw) User Guide
+Tomoaki Oshima <http://www.mindboardapps.com/>
+:doctype: book
+:source-highlighter: coderay
+:toc: left
+:sectnums:
+:sectanchors:
+:icons: font
+:imagesdir: ../images
+
+
+This document explains MindBoard (Draw) Version 1.3.3.
+
+include::user-guide.adoc[]
+
