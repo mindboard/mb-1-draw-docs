@@ -1,3 +1,3 @@
 
-# MindBoard (Classic) User Guide
+# MindBoard (Draw) User Guide
 
