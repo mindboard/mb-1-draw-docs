@@ -16,6 +16,11 @@ image::screenshots/mb-draw.png[title="mindboard draw"]
 * Test on Nexus7 / GALAXY Note / Acer ICONIA Tab
 
 
+== Installation
+
+Get the https://play.google.com/store/apps/details?id=com.mindboardapps.app.draw.free[MindBoard (Draw) App] on Google Play.
+
+
 = Usage
 
 == Overview
