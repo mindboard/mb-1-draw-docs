@@ -65,11 +65,11 @@ image::screenshots/editor.png[title="editor"]
 * **Eraser mode** ... Delete ideas that you draw.
 * **Scroll** ... Drag background with one finger.
 * **Zoom** ... Pinch in / out with two fingers.
-* **Undo** ... Undo last step.
-* **Redo** ... Redo last step.
-* **Change colour** ... Select a icon of colour from the palette.
+* **Undo** ... Undo.
+* **Redo** ... Redo.
+* **Change colour** ... Select a icon of colour from the palette on the action bar.
 * **Change thickness of pen** ... Use the slider on the action bar.
-* **Export as PDF** ... Select PDF export menu item o n the action bar.
+* **Export as PDF** ... Select the PDF export menu item on the action bar.
 
 
 = Appendix
