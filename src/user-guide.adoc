@@ -9,11 +9,11 @@ image::screenshots/mb-draw.png[title="mindboard draw"]
 
 * You can create a drawing by freehand on tablets.
 * You can export drawing as PDF.
-* 4x4, 5x5, 6x6, 7x7, 8x8, 9x9, 10x10 in file-finder screen.
-* You can change file order by drag and drop in file-finder screen.
-* Draw, erase, undo,redo, zoom, shift in drawing screen.
-* You can use 8 colors in drawing screen.
-* Test on Nexus7 / GALAXY Note / Acer ICONIA Tab
+* File Manager Matrix : 4x4, 5x5, 6x6, 7x7, 8x8, 9x9, 10x10.
+* You can change file order by drag and drop in File Manager.
+* Draw, erase, undo, redo, zoom, scroll in Editor.
+* You can use 8 colors.
+* Test on Nexus7 / GALAXY Note / Acer ICONIA Tab.
 
 
 == Installation
@@ -48,23 +48,23 @@ image::screenshots/editor.png[title="editor"]
 
 === File Manager
 
-image::screenshots/finder.png[title="finder"]
+image::screenshots/finder.png[title="file manager"]
 
-* **Add drawing** ... Tap the Add button in the upper left (+).
-* **Copy drawing** ... Select a drawing to copy by tapping it.And then tap the Copy icon on the toolbar.
-* **Delete drawing** ... Select a drawing to delete by tapping it.And then tap the Delete icon on the toolbar.
-* **Change the order of display drawings** ... Drag and drop the drawing to change order.
-* **Change of the number of drawing in the screen** ... Using the slider in the upper right corner.You can change up from 4x4 to 10x10.
+* *Add drawing* ... Tap the Add button in the upper left (+).
+* *Copy drawing* ... Select a drawing to copy by tapping it.And then tap the Copy icon on the toolbar.
+* *Delete drawing* ... Select a drawing to delete by tapping it.And then tap the Delete icon on the toolbar.
+* *Change the order of file icon* ... Drag and drop the drawing to change order.
+* *Change the Matrix Type* ... Using the slider in the upper right corner.You can change up from 4x4 to 10x10.
 
 
 === Editor
 
 image::screenshots/editor.png[title="editor"]
 
-* **Pen mode** ... You can draw your ideas on the screen.
-* **Eraser mode** ... Delete the stroke that you draw.
+* **Pen mode** ... Draw your ideas.
+* **Eraser mode** ... Delete ideas that you draw.
 * **Scroll** ... Drag background with one finger.
-* **Scaling** ... Pinch in / out with two fingers.
+* **Zoom** ... Pinch in / out with two fingers.
 * **Undo** ... Undo last step.
 * **Redo** ... Redo last step.
 * **Change colour** ... Select a icon of colour from the palette.
@@ -78,7 +78,7 @@ image::screenshots/editor.png[title="editor"]
 
 === What's different between MB Draw *Free* and *Full* Edition.
 
-MB Draw Free Edition has Limitations under two.
+Free Edition has tow Limitations.
 
 * You can create drawings file until 25.
 * Exported PDF with watermark.
@@ -88,18 +88,17 @@ There is no differences but these two issues.
 
 === How to transfer drawings from Free Edition to Paid Edition when upgrade.
 
-Yes, you can.
-Please use **Manage Data** menu in [Finder](finder.html).
+Please use the *Manage Data* menu item in the File Manager.
 
 
 ==== Instructions
 
-Step1 : Launch MB Draw Free Edition
+Step1 : Launch Free Edition
 
-. Select Menu *Manage Data*
-. On Manage Data Dialog, Select **Export data** and Tap **OK**.
+. Select the *Manage Data* menu item in the File Manager.
+. On the Manage Data Dialog, Select *Export data* and Tap *OK*.
 
-Step2 : Launch MB-Draw (Full) Edition
+Step2 : Launch Full Edition
 
-. Select Menu *Manage Data*
-. On Manage Data Dialog, Select **Import data** and Tap **OK**.
+. Select the *Manage Data* Menu Item.
+. On the Manage Data Dialog, Select *Import data* and tap *OK*.
